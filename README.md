@@ -13,7 +13,7 @@ This app have the following features that can be possible:
 
 To run this directory, run following scripts
 
-###`npm install`
+### `npm install`
 install all the node modules dependencies first
 
 
