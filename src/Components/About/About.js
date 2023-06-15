@@ -8,7 +8,7 @@ function About() {
       <h5>This app have the following features that can be possible:</h5>
       <h6><li>Having responsive website and clean UI using Bootstrap 4.</li></h6>
       <h6><li>We can write all information in built-in section and manually edit your section.</li></h6>
-      <h6><li>You can drag and drop section in resume layout which helps you positioning of you</li></h6>
+      <h6><li>You can drag and drop section in resume layout which helps you positioning of your section</li></h6>
       <h6><li>Multiple fields can be added in sections like in Work Experience or Projects</li></h6>
       <h6><li>Mutiple color option available to make your resume more customizable</li></h6>
     </div>
